@@ -17,5 +17,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Piyushbhatt7&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Piyushbhatt7&label=Profile%20Views&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
