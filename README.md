@@ -4,7 +4,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Piyushbhatt7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Piyushbhatt7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushbhatt7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushbhatt7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Piyushbhatt7&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Piyushbhatt7&theme=radical&no-frame=false&no-bg=true&margin-w=4)
