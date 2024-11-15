@@ -12,8 +12,7 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Piyushbhatt7&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Piyushbhatt7&theme=cobalt&hide_border=true)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Piyush&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
