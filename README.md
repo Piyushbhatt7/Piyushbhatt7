@@ -1,12 +1,43 @@
 
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Piyush Bhatt and I'm a Android Developer, from India</h2>
+<h2 align="center">Hi, my name is Piyush Bhatt and I'm an Android Developer from India</h2>
+
+###
+<br>
+
+<img align="right" height="330" src="https://camo.githubusercontent.com/46a56148f0d6ff15d7cab76a6f6240d0d2f7f13dbb6c3ad3e4fd7ba3b430891b/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3235497463726375776b7971336f6875624a2f67697068792e6769663f6369643d373930623736313139797735676178773465786c686f696e6f63763036306639383573616570706e6f7179396b70386c2665703d76315f676966735f736561726368267269643d67697068792e6769662663743d67"  />
 
 ###
 
-<img align="left" height="250" src="https://media.giphy.com/media/25Itcrcuwkyq3ohubJ/giphy.gif?cid=790b76119yw5gaxw4exlhoinocv060f985saeppnoqy9kp8l&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=dart" height="60" alt="dart logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="60" alt="gradle logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+  <img width="25" />
+  <br>
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
+  <img width="25" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="25" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+</div>
 
+###
+<br>
+
+###
 <img src="https://raw.githubusercontent.com/Piyushbhatt7/Piyushbhatt7/output/snake.svg" alt="Snake animation" />
 
 <h2 align="left">🌐 Socials:</h2>
