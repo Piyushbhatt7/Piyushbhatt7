@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="55" alt="android logo"  />
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
   <img width="25" />
@@ -23,7 +23,7 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="25" />
-  
+  <br>
   <br>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
