@@ -25,7 +25,6 @@
   <img width="25" />
   <br>
   <br>
-  <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="25" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
