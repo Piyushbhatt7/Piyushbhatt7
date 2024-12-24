@@ -11,30 +11,30 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="55" alt="android logo"  />
+  <img src="https://cdn.simpleicons.org/android/3DDC84" height="50" alt="android logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="55" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="50" alt="flutter logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="55" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="50" alt="dart logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="55" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="55" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="50" alt="firebase logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="25" />
   
   <br>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="25" />
-  <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
   <img width="25" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="55" alt="html5 logo"  />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="50" alt="html5 logo"  />
   <img width="25" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="55" alt="cplusplus logo"  />
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
   <img width="25" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="55" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" height="50" alt="c logo"  />
 </div>
 
 ###
