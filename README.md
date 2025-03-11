@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-<h2 align="center">Hi, my name is Piyush Bhatt and I'm an Android Developer from India</h2>
+<h2 align="center">Hi, my name is Piyush Bhatt and I'm an Android Developer</h2>
 
 ###
 <br>
