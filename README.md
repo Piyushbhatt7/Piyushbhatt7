@@ -74,7 +74,7 @@
 
 <div align="center">
  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Piyushbhatt7&theme=neon-dark&hide_border=true" alt="GitHub Streak" /></a><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Piyushbhatt7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Piyushbhatt7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyushbhatt7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=true&order=2" height="200" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=Piyushbhatt7&theme=juicyfresh&column=-1&row=1&margin-w=7&margin-h=9&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushbhatt7&radius=14&theme=high-contrast&area=true&order=5&hide_border=true&hide_title=false" height="300" alt="activity-graph graph"  />
