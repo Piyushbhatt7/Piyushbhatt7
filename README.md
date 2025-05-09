@@ -44,7 +44,7 @@
 <img src="https://raw.githubusercontent.com/Piyushbhatt7/Piyushbhatt7/output/snake.svg" alt="Snake animation" />
 
 ###
-
+  
 <h2 align="left">🌐 Socials:</h2>
 
 ###
